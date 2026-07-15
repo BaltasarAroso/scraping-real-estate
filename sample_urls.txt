@@ -1,0 +1,6 @@
+https://www.properstar.pt/anuncio/117349150
+https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-venda-ID1i2AO
+https://www.idealista.pt/imovel/33826495/
+https://not-a-real-site.example/imovel/1
+http://localhost/imovel/1
+javascript:alert(1)
